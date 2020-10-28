@@ -1,4 +1,4 @@
-public.class HelloMoi {
+public class HelloMoi {
 public static void main(string[] args) {
 system.out.println("hello, word!");
 }
